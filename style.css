@@ -1,0 +1,17 @@
+.heading {
+  text-align: center;
+}
+
+.list-items {
+  font-size: 30px;
+}
+
+.actual-list-item {
+  display: inline;
+}
+
+.btnRemove {
+  border-radius: 50px;
+  font-size: 20px;
+  margin-right: 50px;
+}
